@@ -10,6 +10,10 @@ Authors: Gemini 2.5 Flash Thinking (v1.0.0), Gemini 2.5 Flash Thinking (v1.1.0),
 -->
 
 
+> [!IMPORTANT]
+> **This repository has been renamed from `chat` to `chat-experiment` and is no longer maintained.**
+> The official GitSense Chat repository is now located at: **[https://github.com/gitsense/chat](https://github.com/gitsense/chat)**
+
 # GitSense Chat
 
 GitSense Chat is reimagining how we can interact with Large Language Models (LLMs) to build better software, together. It provides an effective, intuitive environment for building highly relevant context, generating traceable code, managing knowledge, creating custom AI search assistants and more.
